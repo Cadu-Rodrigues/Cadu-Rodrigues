@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cadu</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cadu-rodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="cadu-rodrigues" /> </p>
 
@@ -16,8 +16,6 @@
 - 📫 How to reach me **carloseduardordesousa@gmail.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/carlos-eduardo-rodrigues-dev](https://linkedin.com/in/carlos-eduardo-rodrigues-dev)
-
-- ⚡ Fun fact **CSGO amateur player, Futsal lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
