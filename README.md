@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Elo7](https://elo7.com.br)
 
-- 🌱 I’m currently learning **Svelte** **Swift**
+- 🌱 I’m currently learning **Svelte** and **Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cadu-Rodrigues](https://github.com/Cadu-Rodrigues)
 
