@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cadu-rodrigues" alt="cadu-rodrigues" /></a> </p>
 
-- 🔭 I’m currently working on [Elo7](https://elo7.com.br)
+- 🔭 I’m currently working on [Hubees](https://hubees.com.br)
 
-- 🌱 I’m currently learning **Svelte** and **Swift**
+- 🌱 I’m currently learning **Ionic** and **Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cadu-Rodrigues](https://github.com/Cadu-Rodrigues)
 
